@@ -137,16 +137,21 @@ STEP 7: EXECUTIVE INSIGHTS
 
 -- United States generated the highest revenue
 -- ($3.53M) and gross profit ($1.45M).
+
 -- Australia achieved the highest ROI
 -- (49.16%), indicating the most efficient
 -- marketing investment performance.
+
 -- United Kingdom showed strong profitability
 -- with an ROI above 22%.
+
 -- Germany, France, and Canada delivered
 -- solid revenue results but lower returns
 -- on marketing investment.
+
 -- The United States and Australia should
 -- be prioritized for future marketing spend.
+
 -- Additional optimization opportunities
 -- exist in Germany, France, Canada,
 -- and the United Kingdom.
