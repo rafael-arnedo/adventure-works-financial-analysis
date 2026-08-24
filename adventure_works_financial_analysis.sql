@@ -1,7 +1,11 @@
 /*
 Project: Adventure Works Financial Analysis
 Author: Rafael Arnedo
-Objective: Explore the database schema and understand table relationships.
+Objective:
+Analyze revenue, costs, gross profit, profit margin,
+and ROI across countries to identify the most
+profitable markets and support marketing investment
+decisions.
 */
 
 /* =====================================================
