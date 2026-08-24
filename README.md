@@ -155,4 +155,4 @@ adventure-works-financial-analysis/
 **Rafael Eduardo Arnedo Padilla**
 Data Analyst | Supply Chain Analytics | Logistics Analytics | Business Intelligence
 Specialized in transforming operational and financial data into actionable business insights through SQL, Power BI, Python, and advanced analytics.
-``
+```
