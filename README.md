@@ -130,18 +130,27 @@ This project helps stakeholders:
 - Data Validation
 - Business Intelligence
 ---
-
+## Project Workflow
+1. Data Exploration
+2. Data Cleaning & Preparation
+3. Revenue and Cost Calculation
+4. Marketing Investment Analysis
+5. Gross Profit Calculation
+6. Profit Margin Analysis
+7. ROI Analysis
+8. Executive Insights
+---
 ## Key Findings
 - United States generated the highest revenue ($3.53M) and gross profit ($1.45M).
 - Australia delivered the highest ROI (49.16%), making it the most efficient market for marketing investments.
 - United Kingdom maintained strong profitability with an ROI above 22%.
 - Germany, France, and Canada showed positive financial performance but lower marketing efficiency.
 - Future marketing investments should prioritize the United States and Australia.
-  
+---
 ## Business Recommendations
 1. Increase marketing investment in the United States and Australia due to their strong financial performance and returns.
 2. Review campaign strategies in Germany, France, Canada, and the United Kingdom to improve marketing efficiency.
-   
+---
 ## Author
 **Rafael Eduardo Arnedo Padilla**
 Data Analyst | Supply Chain Analytics | Logistics Analytics | Business Intelligence
