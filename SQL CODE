@@ -1,7 +1,0 @@
-## Data Exploration Query
-```sql
--- Review the first 10 records from the sales table
-SELECT *
-FROM ventas_2017
-LIMIT 10;
-```
